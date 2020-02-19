@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="btn_add">添加数据</string>
+    <string name="btn_read">读取数据</string>
+    <string name="btn_clear">清除数据</string>
+    <string name="string_read_start">点击了</string>
+    <string name="string_read_end">区域</string>
+    <string name="string_read_no_data">您尚未选中任何区域</string>
+    <string name="click_with_no_rect">您尚未添加允许点击区域，请点击添加数据按钮自动添加</string>
+</resources>
