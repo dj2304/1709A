@@ -24,6 +24,8 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         initView();
 
         //添加演示注释
+
+        //this is 2.20 test
     }
 
     private void initView(){
